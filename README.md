@@ -1,4 +1,4 @@
-****<h1 align="center">Hi 👋, I'm Yashasewi</h1>
+<h1 align="center">Hi 👋, I'm Yashasewi</h1>
 
 <h3 align="center">I'm a passionate Full stack Web Developer.</h3>
 

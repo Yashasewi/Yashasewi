@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://yashasewi.eu,org)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](http://yashasewi.eu.org)**
 
 - 📫 How to reach me **Yashasewi@gmail.com**
 

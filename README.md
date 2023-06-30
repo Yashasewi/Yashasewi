@@ -59,8 +59,8 @@
 <p ><img alt="Rahul Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashasewi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p> -->
 
   <br/>
-    <a href="https://github.com/devrahul-2508/github-readme-stats"><img alt="Rahul Roy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yashasewi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/devrahul-2508/github-readme-stats"><img alt="Rahul Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasewi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/yashasewi/github-readme-stats"><img alt="Yashasewi Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yashasewi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/yashasewi/github-readme-stats"><img alt="Yashasewi Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasewi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

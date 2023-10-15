@@ -9,9 +9,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Befikre](https://befikrestore.in)**
+- 🔭 I’m currently working as intern at **[DataChannel](https://www.datachannel.co)**
 
-- 🌱 I’m currently learning **Next.js.**
+- 🌱 I’m currently learning **Lit .**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 

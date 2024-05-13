@@ -73,8 +73,8 @@
 
 <!--START_SECTION:waka-->
 
-```text
-➕ Searching for new open source project . 
+```markdown
+➕ Working on My new portfolio (https://yashasewi.me/). 
 ```
 
 <!--END_SECTION:waka-->
@@ -84,7 +84,7 @@
 ## 📊 My Open Source Activity
 
 ```Markdown
-✅ Added Dark Mode the coding train website .
+✅ Added Dark Mode to the coding train website . 
 ```
 <br/>
 <!-- add emoji  -->

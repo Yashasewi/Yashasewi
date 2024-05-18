@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as intern at **[DataChannel](https://www.datachannel.co)**
 
-- 🌱 I’m currently learning **Lit .**
+- 🌱 I’m currently learning **React Native .**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 

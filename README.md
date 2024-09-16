@@ -9,17 +9,19 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as intern at **[DataChannel](https://www.datachannel.co)**
+- 🔭 I’m currently working as Software Developer a@ **[Conduent](https://www.conduent.com/)**
 
-- 🌱 I’m currently learning **React Native .**
+- 🌱 I’m currently learning **Go and Zig .**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://yashasewi.eu.org)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](http://yashasewi.me)**
 
 - 📫 How to reach me **Yashasewi@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+  
+- 👨‍💻 Checkout my **[resume](https://website-resume-nine.vercel.app/)**
 
 
 

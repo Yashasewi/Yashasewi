@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as Software Developer **[@Conduent](https://www.conduent.com/)**
+- 🔭 I’m currently working as Software Developer **[@Fenado.Ai](https://fenado.ai/)**
 
 - 🌱 I’m currently learning **Go and Zig .**
 

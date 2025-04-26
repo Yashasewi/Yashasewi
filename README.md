@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashasewi</h1>
 
-<h3 align="center">I'm a passionate Full stack Web Developer.</h3>
+<h3 align="center">I'm a passionate Software Developer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 

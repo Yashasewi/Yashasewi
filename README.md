@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashasewi</h1>
 
-<h3 align="center">I'm a passionate Software Developer.</h3>
+<h3 align="center">I'm a Software Developer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as Software Developer **[@Fenado.Ai](https://fenado.ai/)**
+- 🔭 I’m currently working as Software Developer **[@Scenarix.Ai](https://studiojadu.com/)**
 
 - 🌱 I’m currently learning **Go and Zig .**
 
